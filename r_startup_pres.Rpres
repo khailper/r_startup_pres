@@ -3,6 +3,7 @@ Customizing R Startup
 author: Karl Hailperin
 date: July 20, 2017
 autosize: true
+## https://github.com/khailper/r_startup_pres
 
 Startup Files 
 ========================================================
