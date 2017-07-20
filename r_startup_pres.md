@@ -53,3 +53,5 @@ Words of Warning
 Questions?
 ========================================================
 
+- Colin Gillespie and Robin Lovelace's [Efficient R Programming](https://bookdown.org/csgillespie/efficientR/set-up.html#r-startup) goes into more detail about R's startup (and is a great book in general)
+- RStudio has a [post](https://rviews.rstudio.com/2017/04/19/r-for-enterprise-understanding-r-s-startup/) focused on customizing startup at the enterprise level
